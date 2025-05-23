@@ -6,7 +6,7 @@
 [![GitHub Mel](https://img.shields.io/github/followers/adrien-schndr?label=follow&style=social)](https://github.com/adrien-schndr)
 
 
-### [🌐 Project Website](https://mel.schndr.pro)
+### [🌐 Project Website](https://mel.schndr.pro/spotify-player)
 
 
 
