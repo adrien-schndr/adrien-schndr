@@ -5,16 +5,18 @@
 
 [![GitHub Mel](https://img.shields.io/github/followers/adrien-schndr?label=follow&style=social)](https://github.com/adrien-schndr)
 
+### [Project Website](https://adrien.schndr.pro)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mel = {
   pronouns: "she" | "her",
+  age: 18,
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Linux, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  project: "I am currently working on a website made with react and typescript (back-end & front-end"
 }
 ```
 
