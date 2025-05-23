@@ -5,7 +5,7 @@
 
 [![GitHub Mel](https://img.shields.io/github/followers/adrien-schndr?label=follow&style=social)](https://github.com/adrien-schndr)
 
-### [Project Website](https://adrien.schndr.pro)
+### [Project Website](https://mel.schndr.pro)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
