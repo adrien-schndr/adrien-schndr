@@ -15,11 +15,11 @@ const mel = {
   age: 18,
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Linux, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  project: "I am currently working on a website made with react and typescript (back-end & front-end"
+  project: "I am currently working on a website made with \
+            react and typescript (back-end & front-end"
 }
 ```
 
-### Each and every line of code is written in arch btw
+### Each and every line of code is written in arch, btw.
 
 ---
