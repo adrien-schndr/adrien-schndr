@@ -8,8 +8,6 @@
 
 ### [🌐 Project Website](https://mel.schndr.pro)
 
-| *⋆⁺₊ I make cute little games, random programs, or cool projects that come to my mind. ⋆⁺₊* |
-| -------|
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -26,7 +24,10 @@ const mel = {
 console.log(mel);
 ```
 
-> [!NOTE]
-> Each and every line of code is written in arch, btw. 🖤
+| *⋆⁺₊ I make cute little games, random programs, or cool projects that come to my mind. ⋆⁺₊* |
+| -------|
+
+
+#### Each and every line of code is written in arch, btw. 🖤
 
 ---
