@@ -16,8 +16,9 @@ const mel = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Linux, Docker],
   project: "I am currently working on a website made with \
-            react and typescript (back-end & front-end"
-}
+            react and typescript (back-end & front-end)"
+};
+console.log(mel);
 ```
 
 ### Each and every line of code is written in arch, btw.
