@@ -3,8 +3,6 @@
 <p><em>₊˚✩˚₊ Engineering school student at <a href="https://www-ensibs.univ-ubs.fr/fr/index.html">Polytech Bretagne</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 
 </em></p>
 
-[![GitHub Mel](https://img.shields.io/github/followers/adrien-schndr?label=follow&style=social)](https://github.com/adrien-schndr)
-
 
 ### [🌐 Project Website](https://mel.schndr.pro/spotify-player)
 
